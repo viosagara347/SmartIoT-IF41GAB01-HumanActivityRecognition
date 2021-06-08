@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+App Design respectfully belongs to Abu Anwar [abuanwar072 GitHub](https://github.com/abuanwar072/Meditation-App) Thanks in Advance.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
